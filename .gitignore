@@ -1,0 +1,16 @@
+*.iml
+.gradle
+/local.properties
+.idea/
+!./idea/.gitignore
+!.idea/codeStyles
+!.idea/inspectionProfiles
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Kotlin 2.0
+.kotlin/
